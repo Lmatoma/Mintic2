@@ -1,0 +1,33 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Este proyecto es desarrollado para el programa [Misión TIC 2022](https://www.misiontic2022.gov.co/portal) para la [UdeA](https://lms.misiontic2022udea.com) (Ciclo 4)\r **programacion web grupo 13-14-15**. Nuestro \"Kanban Board\" lo puedes encontrar en: [Trello](https://trello.com/b/7c8w6Szn/ciclo-4)",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixeles-Web/GPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pixeles-Web/GPI/issues"
+  },
+  "homepage": "https://github.com/Pixeles-Web/GPI#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.1",
+    "express-session": "^1.17.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.13",
+    "passport": "^0.5.0",
+    "passport-local": "^1.0.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
